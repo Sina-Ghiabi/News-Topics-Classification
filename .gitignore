@@ -1,0 +1,15 @@
+# Dataset (not allowed in the repo — see Project Guidline.md)
+*.csv
+DB/
+artifacts/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
