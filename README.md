@@ -247,7 +247,6 @@ guessing are dropped from the vote entirely.
 ├── 03_modeling.ipynb             # 11-model zoo + MLP + weighted voting ensemble
 ├── 04_evaluation_testing.ipynb   # Rebuild ensemble → submission.csv
 ├── 05_visualization.ipynb        # Report charts (confusion matrix, per-class F1, ...)
-├── Project Guidline.md           # Official assignment specification
 └── README.md
 ```
 
